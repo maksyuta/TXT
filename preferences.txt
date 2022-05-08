@@ -1,0 +1,5 @@
+favorite_movie:Forsage 5,
+favorite_serial:La casa de papel,
+favorite_eat:Meat,
+favorite_seasons:Summer,
+favorite_country:Sweden.
