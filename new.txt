@@ -1,0 +1,4 @@
+name:Sergey,
+age:36,
+Pets:1,
+salary:350$.
